@@ -7,10 +7,11 @@ Hi there, I'm <a href="https://joshade.netlify.com" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer, currently building stuffs on the blockchain with Solidity!
+I'm a Full-Stack Web and Blockchain Developer!
 </h2> 
 
 A passionate software developer who loves to build quality software that users love to use. I love working with both frontend and backend technologies.
+I also love Web3. I spend my free time building cool projects on the blockchain.
 
 ### 🤝 Connect with me:
 
@@ -19,11 +20,12 @@ A passionate software developer who loves to build quality software that users l
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 Cools Blockchain apps i worked on recently
+- <a href="https://matrixdestroyer.netlify.app/" target="_blank" rel="noreferrer">Matrix Destroyer</a> 
+- <a href="https://blockchain-chatboard.netlify.app/" target="_blank" rel="noreferrer">Blockchain Chat Board</a> 
 
-- Blockchain chat room - Solidity and react
-- Matrix Destroyer - Solidity and react
-- My portfolio - revamping - react
+## 🔭 I'm currently working on
+- <a href="http://joshade.netlify.com/" target="_blank" rel="noreferrer">My portfolio</a> 
 - Articles 
 - Work stuffs
 
