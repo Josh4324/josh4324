@@ -20,9 +20,13 @@ I also love Web3. I spend my free time building cool projects on the blockchain.
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 Cools Blockchain apps i worked on recently
+## 🔭 Cool Blockchain apps i worked on recently
 - <a href="https://matrixdestroyer.netlify.app/" target="_blank" rel="noreferrer">Matrix Destroyer</a> 
 - <a href="https://blockchain-chatboard.netlify.app/" target="_blank" rel="noreferrer">Blockchain Chat Board</a> 
+                                                                          
+## 🔭 Cool Web Aplications i worked on recently
+- <a href="https://checkspecstatus.com/" target="_blank" rel="noreferrer">Check Spec Status</a> 
+- <a href="https://meme.checkspecstatus.com/" target="_blank" rel="noreferrer">Meme Generator</a> 
 
 ## 🔭 I'm currently working on
 - <a href="http://joshade.netlify.com/" target="_blank" rel="noreferrer">My portfolio</a> 
