@@ -21,6 +21,7 @@ I also love Web3. I spend my free time building cool projects on the blockchain.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 Cool Blockchain apps i worked on recently
+- <a href="https://metaversegifs.netlify.app/" target="_blank" rel="noreferrer">Metaverse Gif Portal</a> 
 - <a href="https://matrixdestroyer.netlify.app/" target="_blank" rel="noreferrer">Matrix Destroyer</a> 
 - <a href="https://blockchain-chatboard.netlify.app/" target="_blank" rel="noreferrer">Blockchain Chat Board</a> 
                                                                           
@@ -38,7 +39,8 @@ I also love Web3. I spend my free time building cool projects on the blockchain.
 - 📱 Blockchain technologies
 - Golang
 - Solidity
-- Next Js 
+- Next Js
+- Rust
 
 ## 💼 Technical Skills
 
@@ -72,8 +74,9 @@ I also love Web3. I spend my free time building cool projects on the blockchain.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
-
+## 📝 Latest Blog Posts\
+                                                                        
+- [Using Basic and Advanced Sequelize Features in NodeJS](https://www.section.io/engineering-education/complete-guide-on-using-sequelize-basic-and-advanced-features/)
 - [Blockchain for Beginners](https://dev.to/josh4324/blockchain-for-beginners-5bc0)
 - [Building a PhotoShare App Using AUth0, Cloudinary, ReactJS and Supabase](https://dev.to/hackmamba/building-a-photoshare-app-using-auth0-cloudinary-reactjs-and-supabase-12ne)
 - [Create a Todo CLI App Using NodeJS](https://dev.to/josh4324/create-a-todo-cli-app-with-node-js-3hbc)
