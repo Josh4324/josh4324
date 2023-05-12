@@ -51,7 +51,7 @@
 </table>
 
 ## 🔭 Cool Blockchain apps i worked on recently
-
+- <a href="https://strong-body.netlify.app/" target="_blank" rel="noreferrer">Fitness App</a>
 - <a href="https://marketplace-escrow.netlify.app/" target="_blank" rel="noreferrer">Dev Marketplace (Built on Polygon Blockchain (Mumbai) </a>
 - <a href="https://payment-split.netlify.app/" target="_blank" rel="noreferrer">Payment Splitter (Built on Celo Blockchain (Alfajores)</a>
 - <a href="https://auktion.netlify.app/" target="_blank" rel="noreferrer">Auktion (Built on Celo Celo Blockchin (Alfajores)</a>
