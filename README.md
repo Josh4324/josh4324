@@ -37,7 +37,7 @@
                                                                         
 - [Understanding Digital Signatures](https://adesanyajoshua.hashnode.dev/digital-signatures-101-understanding-the-basics)                                                                      
 - [How to Build a Payment System on Ethereum, BSC and Polygon](https://adesanyajoshua.hashnode.dev/how-to-build-a-simple-payment-system-on-ethereum-binance-smart-chain-and-polygon)
-
+- [Solidity for Beginners](https://dev.to/josh4324/a-friendly-beginners-guide-to-solidity-part-one-4ghi)
 - [Understanding Security Risks in Smart Contracts](https://adesanyajoshua.hashnode.dev/understanding-the-security-risks-in-smart-contract-development)
 - [How to deploy a Soulbound NFT on Binance Smart Chain](https://adesanyajoshua.hashnode.dev/how-to-deploy-a-soulbound-nft-contract-on-binance-smart-chain-with-thirdweb)
 - [Things you need to take into consideration when building a backend system](https://adesanyajoshua.hashnode.dev/things-you-need-to-take-into-consideration-when-building-a-backend-software/)
