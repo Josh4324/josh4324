@@ -27,15 +27,16 @@
         <br />
         <h3>Twitter & Linkedin</h3>
        <a href="https://www.linkedin.com/in/joshuaadesanya/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-        <br/>
+        <br/><br/>
         <a href="https://twitter.com/josh_my_man">
           <img src="https://img.shields.io/twitter/follow/josh_my_man?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
     <td>
        📝 Latest Blog Post
-                                                                        
-- [Understanding Digital Signatures](https://adesanyajoshua.hashnode.dev/digital-signatures-101-understanding-the-basics)                                                                      
+
+- [Regenerative Finance in Blockchain](https://adesanyajoshua.hashnode.dev/regenerative-finance-in-blockchain)                                                                                                                                              
+- [Understanding Digital Signatures](https://adesanyajoshua.hashnode.dev/digital-signatures-101-understanding-the-basics)  
 - [How to Build a Payment System on Ethereum, BSC and Polygon](https://adesanyajoshua.hashnode.dev/how-to-build-a-simple-payment-system-on-ethereum-binance-smart-chain-and-polygon)
 - [Solidity for Beginners](https://dev.to/josh4324/a-friendly-beginners-guide-to-solidity-part-one-4ghi)
 - [Understanding Security Risks in Smart Contracts](https://adesanyajoshua.hashnode.dev/understanding-the-security-risks-in-smart-contract-development)
