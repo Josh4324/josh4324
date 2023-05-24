@@ -34,7 +34,8 @@
     </td>
     <td>
        📝 Latest Blog Post
-
+                                                                                                                                               
+- [Understanding Account Abstraction: Exploring the Concept and Benefits](https://adesanyajoshua.hashnode.dev/understanding-account-abstraction-exploring-the-concept-and-benefits)                                                                                                                               
 - [Regenerative Finance in Blockchain](https://adesanyajoshua.hashnode.dev/regenerative-finance-in-blockchain)                                                                                                                                              
 - [Understanding Digital Signatures](https://adesanyajoshua.hashnode.dev/digital-signatures-101-understanding-the-basics)  
 - [How to Build a Payment System on Ethereum, BSC and Polygon](https://adesanyajoshua.hashnode.dev/how-to-build-a-simple-payment-system-on-ethereum-binance-smart-chain-and-polygon)
