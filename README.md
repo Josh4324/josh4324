@@ -34,7 +34,8 @@
     </td>
     <td>
        📝 Latest Blog Post
-                                                                                                                                               
+      
+- [Web3 and DAOs](https://adesanyajoshua.hashnode.dev/web3-and-daos-empowering-individuals-and-disrupting-traditional-structures)                                                                                                                                             
 - [Understanding Account Abstraction: Exploring the Concept and Benefits](https://adesanyajoshua.hashnode.dev/understanding-account-abstraction-exploring-the-concept-and-benefits)                                                                                                                               
 - [Regenerative Finance in Blockchain](https://adesanyajoshua.hashnode.dev/regenerative-finance-in-blockchain)                                                                                                                                              
 - [Understanding Digital Signatures](https://adesanyajoshua.hashnode.dev/digital-signatures-101-understanding-the-basics)  
