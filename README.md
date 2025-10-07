@@ -19,7 +19,7 @@ Before blockchain security, I help built real word assets on the blockchain, we 
 Prior to blockchain, I built web applications across the banking, entertainment, and education sectors, working on both frontend and backend systems. My main tools included React.js and Node.js, where I solved complex engineering problems and delivered scalable solutions.
 
 
-## Competitions as a security researcher
+## Competitions & Bounties
 
 | Project | Critical | High Risk |  Medium Risk | Low Risk |
 |-----------|-----------|-----------|-----------|-----------|
@@ -36,4 +36,27 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [ZAROS](https://github.com/Cyfrin/2025-01-zaros-part-2) | - | 1 | 3 | 1 |
 | [ONE WORLD](https://github.com/Cyfrin/2024-11-one-world) | - | 1 | - | - |
 | [SWAN DRIA](https://github.com/Cyfrin/2024-10-swan-dria) | - | - | 1 | - |
+| [STAKE LINK](https://github.com/Cyfrin/2024-09-stakelink) | - | - | - | 2 |
+| [ARK PROJECT](https://github.com/Cyfrin/2024-07-ark-project) | - | - | 1 | 1 |
+| [FJORD](https://github.com/Cyfrin/2024-08-fjord) | - | - | 2 | - |
+| [TADLE](https://github.com/Cyfrin/2024-08-tadle) | - | 5 | - | 3 |
+| [ZAROS](https://github.com/Cyfrin/2024-07-zaros) | - | 2 | 1 | 1 |
+| [TEMPLE GOLD](https://github.com/Cyfrin/2024-07-templegold) | - | 1 | - | 1 |
+| [Yieldoor]() | - | 1 | - | - |
+| [ROVA]() | - | - | 1 | - |
+| [PLUME]() | 1 | 1 | 2 | 2 |
+| [FLARE]() | - | - | - | 1 |
+| [HESTY]() | 1 | - | - | - |
+| [MAJORITY GAMES]() | 1 | - | - | - |
+| [BLACKHAN]() | - | - | 1 | - |
+
+## PRIVATE AUDITS
+
+| Project | Critical | High Risk |  Medium Risk | Low Risk |
+|-----------|-----------|-----------|-----------|-----------|
+| [Hopeum Staking](https://github.com/HopeumOrg/hopeumContract) | - | 3 | 5 | 1 |
+| [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 |
+| [MULTICALLWITHPERMIT](https://github.com/vaariance/pathway) | - | - | 2 | 2 |
+| [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 |
+| [LODE PROTOCOL](https://github.com/Lode-Protocol/contracts) | - | 1 | 3 | 5 |
 
