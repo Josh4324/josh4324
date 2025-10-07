@@ -19,3 +19,8 @@ Before blockchain security, I help built real word assets on the blockchain, we 
 Prior to blockchain, I built web applications across the banking, entertainment, and education sectors, working on both frontend and backend systems. My main tools included React.js and Node.js, where I solved complex engineering problems and delivered scalable solutions.
 
 
+## Competitions as a security researcher
+
+| Project | Critical | High Risk | Medium Risk | Low Risk |
+|-------|-------|-------|-------|
+|[AI ARENA](https://github.com/code-423n4/2024-02-ai-arena) |-|2|-|-|
