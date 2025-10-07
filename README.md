@@ -8,7 +8,7 @@ If you're looking to safeguard your smart contracts or need a reliable auditor f
 
 You can find me on:
 - **X** [@josh_my_man](https://x.com/josh_my_man)
-- **LinkedIn [@joshuaadesanya](https://www.linkedin.com/in/joshuaadesanya/)
+- **LinkedIn** [@joshuaadesanya](https://www.linkedin.com/in/joshuaadesanya/)
 
 ## Professional background
 
