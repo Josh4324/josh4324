@@ -31,4 +31,9 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [SIZE](https://cantina.xyz/code/d88cb915-64c9-4488-8062-dd16ede7a4a0/README.md) | - | - | 1 | - |
 | [STAKE UP](https://cantina.xyz/code/61087007-c7e9-4c4e-9d90-4e118933fecf/README.md) | - | 1 | 1 | - |
 | [DAAO](https://cantina.xyz/code/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/README.md) | - | 2 | 1 | - |
+| [GAMMA](https://github.com/CodeHawks-Contests/2025-02-gamma) | - | - | 1 | 1 |
+| [RAAC](https://github.com/Cyfrin/2025-02-raac) | - | 8 | 11 | 12 |
+| [ZAROS](https://github.com/Cyfrin/2025-01-zaros-part-2) | - | 1 | 3 | 1 |
+| [ONE WORLD](https://github.com/Cyfrin/2024-11-one-world) | - | 1 | - | - |
+| [SWAN DRIA](https://github.com/Cyfrin/2024-10-swan-dria) | - | - | 1 | - |
 
