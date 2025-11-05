@@ -49,6 +49,8 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [HESTY]() | 1 | - | - | - |
 | [MAJORITY GAMES]() | 1 | - | - | - |
 | [BLACKHAN]() | - | - | 1 | - |
+| [OpenEden]() | - | - | 1 | - |
+| [Lumia]() | 1 | - | - | - |
 
 ## PRIVATE AUDITS
 
