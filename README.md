@@ -52,6 +52,7 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [Blockz ]() | - | - | 2 | - |
 | [OpenEden]() | - | - | 1 | - |
 | [Lumia]() | 1 | - | - | - |
+| [Yield Basis]() | - | - | 1 | - |
 
 
 ## PRIVATE AUDITS
