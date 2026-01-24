@@ -67,5 +67,5 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [MULTICALLWITHPERMIT](https://github.com/vaariance/pathway) | - | - | 2 | 2 | Solidity |
 | [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 | Solidity |
 | [LODE PROTOCOL](https://github.com/Lode-Protocol/contracts) | - | 1 | 3 | 5 | Solidity |
-| [ESUSUS PROTOCOL](https://github.com/emiridbest/esusu-contracts) | - | 13 | 9 | 6 | Solidity |
+| [ESUSU PROTOCOL](https://github.com/emiridbest/esusu-contracts) | - | 13 | 9 | 6 | Solidity |
 
