@@ -27,7 +27,7 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [DYAD](https://github.com/code-423n4/2024-04-dyad) | - | 2 | - | - | Solidity |
 | [LIQUID RON](https://github.com/code-423n4/2025-01-liquid-ron) | - | 1 | 1 | - | Solidity |
 | [LIQUID BOLD](https://cantina.xyz/code/d86632df-ab33-4448-8198-64955eae6712/overview) | - | - | 1 | - | Solidity |
-| [COLOURPOOL CHROMIA](https://cantina.xyz/code/7db75599-9dad-40aa-9fc7-e879803eea2b/README.md) | - | 1 | 2 | - | Solidity |
+| [COLOURPOOL CHROMIA](https://cantina.xyz/code/7db75599-9dad-40aa-9fc7-e879803eea2b/README.md) | - | 1 | 2 | - | Chromia |
 | [SIZE](https://cantina.xyz/code/d88cb915-64c9-4488-8062-dd16ede7a4a0/README.md) | - | - | 1 | - | Solidity |
 | [STAKE UP](https://cantina.xyz/code/61087007-c7e9-4c4e-9d90-4e118933fecf/README.md) | - | 1 | 1 | - | Solidity |
 | [DAAO](https://cantina.xyz/code/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/README.md) | - | 2 | 1 | - | Solidity |
@@ -37,7 +37,7 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [ONE WORLD](https://github.com/Cyfrin/2024-11-one-world) | - | 1 | - | - | Solidity |
 | [SWAN DRIA](https://github.com/Cyfrin/2024-10-swan-dria) | - | - | 1 | - | Solidity |
 | [STAKE LINK](https://github.com/Cyfrin/2024-09-stakelink) | - | - | - | 2 | Solidity |
-| [ARK PROJECT](https://github.com/Cyfrin/2024-07-ark-project) | - | - | 1 | 1 | Solidity |
+| [ARK PROJECT](https://github.com/Cyfrin/2024-07-ark-project) | - | - | 1 | 1 | Solidity and StarkNet |
 | [FJORD](https://github.com/Cyfrin/2024-08-fjord) | - | - | 2 | - | Solidity |
 | [TADLE](https://github.com/Cyfrin/2024-08-tadle) | - | 5 | - | 3 | Solidity |
 | [ZAROS](https://github.com/Cyfrin/2024-07-zaros) | - | 2 | 1 | 1 | Solidity |
@@ -53,15 +53,19 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 | [OpenEden]() | - | - | 1 | - | Solidity |
 | [Lumia]() | 1 | - | - | - | Solidity |
 | [Yield Basis]() | - | - | 1 | - | Solidity |
+| [ALCHEMIST V3]() | 1 | 1 | 2 | 2 | Solidity |
+| [BELONG PROTOCOL]() | - | 1 | 2 | - | Solidity |
+| [XRPL Lending Protocol]() | 1 | 1 | 1 | 1 | C++ |
 
 
 ## PRIVATE AUDITS
 
-| Project | Critical | High Risk |  Medium Risk | Low Risk |
-|-----------|-----------|-----------|-----------|-----------|
-| [Hopeum Staking](https://github.com/HopeumOrg/hopeumContract) | - | 3 | 5 | 1 |
-| [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 |
-| [MULTICALLWITHPERMIT](https://github.com/vaariance/pathway) | - | - | 2 | 2 |
-| [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 |
-| [LODE PROTOCOL](https://github.com/Lode-Protocol/contracts) | - | 1 | 3 | 5 |
+| Project | Critical | High Risk |  Medium Risk | Low Risk | Language | 
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| [Hopeum Staking](https://github.com/HopeumOrg/hopeumContract) | - | 3 | 5 | 1 | Solidity |
+| [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 | Solidity |
+| [MULTICALLWITHPERMIT](https://github.com/vaariance/pathway) | - | - | 2 | 2 | Solidity |
+| [PODY NETWORK](https://github.com/PodyNetwork/contracts) | - | - | 5 | 3 | Solidity |
+| [LODE PROTOCOL](https://github.com/Lode-Protocol/contracts) | - | 1 | 3 | 5 | Solidity |
+| [ESUSUS PROTOCOL](https://github.com/emiridbest/esusu-contracts) | - | 13 | 9 | 6 | Solidity |
 
