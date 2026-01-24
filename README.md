@@ -21,38 +21,38 @@ Prior to blockchain, I built web applications across the banking, entertainment,
 
 ## Competitions & Bounties
 
-| Project | Critical | High Risk |  Medium Risk | Low Risk |
-|-----------|-----------|-----------|-----------|-----------|
-| [AI ARENA](https://github.com/code-423n4/2024-02-ai-arena) | - | 2 | - | - |
-| [DYAD](https://github.com/code-423n4/2024-04-dyad) | - | 2 | - | - |
-| [LIQUID RON](https://github.com/code-423n4/2025-01-liquid-ron) | - | 1 | 1 | - |
-| [LIQUID BOLD](https://cantina.xyz/code/d86632df-ab33-4448-8198-64955eae6712/overview) | - | - | 1 | - |
-| [COLOURPOOL CHROMIA](https://cantina.xyz/code/7db75599-9dad-40aa-9fc7-e879803eea2b/README.md) | - | 1 | 2 | - |
-| [SIZE](https://cantina.xyz/code/d88cb915-64c9-4488-8062-dd16ede7a4a0/README.md) | - | - | 1 | - |
-| [STAKE UP](https://cantina.xyz/code/61087007-c7e9-4c4e-9d90-4e118933fecf/README.md) | - | 1 | 1 | - |
-| [DAAO](https://cantina.xyz/code/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/README.md) | - | 2 | 1 | - |
-| [GAMMA](https://github.com/CodeHawks-Contests/2025-02-gamma) | - | - | 1 | 1 |
-| [RAAC](https://github.com/Cyfrin/2025-02-raac) | - | 8 | 11 | 12 |
-| [ZAROS](https://github.com/Cyfrin/2025-01-zaros-part-2) | - | 1 | 3 | 1 |
-| [ONE WORLD](https://github.com/Cyfrin/2024-11-one-world) | - | 1 | - | - |
-| [SWAN DRIA](https://github.com/Cyfrin/2024-10-swan-dria) | - | - | 1 | - |
-| [STAKE LINK](https://github.com/Cyfrin/2024-09-stakelink) | - | - | - | 2 |
-| [ARK PROJECT](https://github.com/Cyfrin/2024-07-ark-project) | - | - | 1 | 1 |
-| [FJORD](https://github.com/Cyfrin/2024-08-fjord) | - | - | 2 | - |
-| [TADLE](https://github.com/Cyfrin/2024-08-tadle) | - | 5 | - | 3 |
-| [ZAROS](https://github.com/Cyfrin/2024-07-zaros) | - | 2 | 1 | 1 |
-| [TEMPLE GOLD](https://github.com/Cyfrin/2024-07-templegold) | - | 1 | - | 1 |
-| [Yieldoor]() | - | 1 | - | - |
-| [ROVA]() | - | - | 1 | - |
-| [PLUME]() | 1 | 1 | 2 | 2 |
-| [FLARE]() | - | - | - | 1 |
-| [HESTY]() | 1 | - | - | - |
-| [MAJORITY GAMES]() | 1 | - | - | - |
-| [BLACKHAN]() | - | - | 1 | - |
-| [Blockz ]() | - | - | 2 | - |
-| [OpenEden]() | - | - | 1 | - |
-| [Lumia]() | 1 | - | - | - |
-| [Yield Basis]() | - | - | 1 | - |
+| Project | Critical | High Risk |  Medium Risk | Low Risk | Language |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| [AI ARENA](https://github.com/code-423n4/2024-02-ai-arena) | - | 2 | - | - | Solidity |
+| [DYAD](https://github.com/code-423n4/2024-04-dyad) | - | 2 | - | - | Solidity |
+| [LIQUID RON](https://github.com/code-423n4/2025-01-liquid-ron) | - | 1 | 1 | - | Solidity |
+| [LIQUID BOLD](https://cantina.xyz/code/d86632df-ab33-4448-8198-64955eae6712/overview) | - | - | 1 | - | Solidity |
+| [COLOURPOOL CHROMIA](https://cantina.xyz/code/7db75599-9dad-40aa-9fc7-e879803eea2b/README.md) | - | 1 | 2 | - | Solidity |
+| [SIZE](https://cantina.xyz/code/d88cb915-64c9-4488-8062-dd16ede7a4a0/README.md) | - | - | 1 | - | Solidity |
+| [STAKE UP](https://cantina.xyz/code/61087007-c7e9-4c4e-9d90-4e118933fecf/README.md) | - | 1 | 1 | - | Solidity |
+| [DAAO](https://cantina.xyz/code/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/README.md) | - | 2 | 1 | - | Solidity |
+| [GAMMA](https://github.com/CodeHawks-Contests/2025-02-gamma) | - | - | 1 | 1 | Solidity |
+| [RAAC](https://github.com/Cyfrin/2025-02-raac) | - | 8 | 11 | 12 | Solidity |
+| [ZAROS](https://github.com/Cyfrin/2025-01-zaros-part-2) | - | 1 | 3 | 1 | Solidity |
+| [ONE WORLD](https://github.com/Cyfrin/2024-11-one-world) | - | 1 | - | - | Solidity |
+| [SWAN DRIA](https://github.com/Cyfrin/2024-10-swan-dria) | - | - | 1 | - | Solidity |
+| [STAKE LINK](https://github.com/Cyfrin/2024-09-stakelink) | - | - | - | 2 | Solidity |
+| [ARK PROJECT](https://github.com/Cyfrin/2024-07-ark-project) | - | - | 1 | 1 | Solidity |
+| [FJORD](https://github.com/Cyfrin/2024-08-fjord) | - | - | 2 | - | Solidity |
+| [TADLE](https://github.com/Cyfrin/2024-08-tadle) | - | 5 | - | 3 | Solidity |
+| [ZAROS](https://github.com/Cyfrin/2024-07-zaros) | - | 2 | 1 | 1 | Solidity |
+| [TEMPLE GOLD](https://github.com/Cyfrin/2024-07-templegold) | - | 1 | - | 1 | Solidity |
+| [Yieldoor]() | - | 1 | - | - | Solidity |
+| [ROVA]() | - | - | 1 | - | Solidity |
+| [PLUME]() | 1 | 1 | 2 | 2 | Solidity |
+| [FLARE]() | - | - | - | 1 | Solidity |
+| [HESTY]() | 1 | - | - | - | Solidity |
+| [MAJORITY GAMES]() | 1 | - | - | - | Solidity |
+| [BLACKHAN]() | - | - | 1 | - | Solidity |
+| [Blockz ]() | - | - | 2 | - | Solidity |
+| [OpenEden]() | - | - | 1 | - | Solidity |
+| [Lumia]() | 1 | - | - | - | Solidity |
+| [Yield Basis]() | - | - | 1 | - | Solidity |
 
 
 ## PRIVATE AUDITS
